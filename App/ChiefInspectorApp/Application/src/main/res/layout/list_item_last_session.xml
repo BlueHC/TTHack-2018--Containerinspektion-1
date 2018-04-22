@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/itemCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    android:minHeight="@dimen/minimal_row_size"
+    app:cardCornerRadius="6dp"
+
+    app:cardElevation="@dimen/material_generic_card_elevation"
+    card_view:cardCornerRadius="0dp"
+    card_view:cardUseCompatPadding="true"
+    >
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+
+    <RelativeLayout
+        android:id="@+id/headlineRL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+      <TextView
+          android:id="@+id/sessionTv"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:gravity="center"
+          card_view:text="Heute"
+          />
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentRight="true"
+          android:visibility="invisible"
+          android:src="@drawable/ic_keyboard_arrow_down_black_24dp"
+          />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/containerLL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/headlineRL"
+        >
+      <com.makeramen.roundedimageview.RoundedImageView
+          xmlns:app="http://schemas.android.com/apk/res-auto"
+
+          android:id="@+id/profileIv"
+          android:layout_width="48dp"
+          android:layout_height="48dp"
+          android:layout_centerHorizontal="true"
+          android:scaleType="fitXY"
+          android:src="@drawable/container"
+          android:visibility="visible"
+          app:riv_border_color="#000000"
+          app:riv_border_width="1dip"
+          app:riv_mutate_background="true"
+          app:riv_oval="true"
+          android:layout_marginLeft="10dp"
+
+          app:riv_tile_mode="repeat"
+          />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/containerLL"
+        >
+      <TextView
+          android:id="@+id/uploadedTv"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingLeft="10dp"
+          android:layout_alignParentStart="true"
+          android:layout_alignParentTop="true"
+          android:text="Erfolgreich hochgeladen"
+          />
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+android:layout_alignParentRight="true"
+          android:layout_centerHorizontal="true"
+          android:src="@drawable/ic_check_green_500_24dp"
+          />
+
+
+    </RelativeLayout>
+  </RelativeLayout>
+
+
+
+</android.support.v7.widget.CardView>
