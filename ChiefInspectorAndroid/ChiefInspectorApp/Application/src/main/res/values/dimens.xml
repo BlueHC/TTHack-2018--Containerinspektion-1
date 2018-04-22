@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="frame_height">112dp</dimen>
+  <dimen name="image_button_padding">20dp</dimen>
+  <dimen name="minimal_row_height">100dp</dimen>
+  <dimen name="minimal_row_size">72dp</dimen>
+  <dimen name="material_generic_card_elevation">7dp</dimen>
+
+</resources>

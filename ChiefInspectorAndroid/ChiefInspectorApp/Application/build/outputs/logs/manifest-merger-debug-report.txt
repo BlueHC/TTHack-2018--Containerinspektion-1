@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+MERGED from [com.android.support:design:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/84295c59abf060942a6327e79c12a098/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/42d167b965d49cf017ccf6474b3f7a67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/df16f8eec8dccdc6ffe05249fdb09e85/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/7ddb8717ffa676e50958148ce8d76d09/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/reactivestreams-1.1.1.aar/a4f5afeafc8e2249a23dc34781bf6abf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.paging:runtime:1.0.0-beta1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/558772b9debf44afb2f6106451fa4b54/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/8ea8ae01fbbd23738549bd89226c4fe1/AndroidManifest.xml:15:1-21:12
+MERGED from [com.mikepenz:materialdrawer:6.0.6] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/materialdrawer-6.0.6.aar/2ebfd91b51ff5074e33cd69fdadecbf2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1f1587b3351bcbc7a0539fa36374a3e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/5d847dc8e034fa662faf6792563f28c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9c8c4ed4dd69b48d456b6737a030e6e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e07ea0a1221ab057eab6dae17c37b021/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/715b4eb73687e6a7cc38389152dedaaa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/ccc410aabdb8fac9e5aeff4cf3bb8b2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/0cd53f8769594132fa5b4f3ce9206b99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/bb5f8704da8e6aed2a50b9378c548ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd00f806021ee1f184fadcc4342f9d08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fde8872a28690c7ef9ba9b67288b949/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/f254b46f21960f22a9e606d72cdb0ed2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a10f3394bdeac669f9d67f1dfacf8e6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/b0f02f50b2e791b0ce18ac91657fd207/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f45420a476a23d5cd1284e247640879/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3048e0c103d97e99a65d173791433ef2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mikepenz:materialize:1.1.2] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/materialize-1.1.2.aar/320dae2d20cfdfa5d861303121c8a649/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:3.0.2] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/iconics-core-3.0.2.aar/00aebf192db957ba96eb5b51d7a280d7/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:3.2.4] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/fastadapter-3.2.4.aar/f0916f530c07708402efe551beb8ec3e/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-expandable-3.2.4.aar/b9e21a3fef14279357e51b3d84303036/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+	package
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:19:5-47
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:1-48:12
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:21:3-62
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:21:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:22:3-78
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:22:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:23:3-77
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:23:20-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:24:3-65
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:24:20-62
+uses-feature#android.hardware.camera
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:27:3-57
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:27:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:28:3-67
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:28:17-65
+application
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:30:3-46:17
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:22:5-28:19
+	android:label
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:35:7-39
+	android:icon
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:34:7-43
+	android:allowBackup
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:32:7-33
+	android:theme
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:36:7-43
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:31:7-45
+activity#com.example.android.presentation.MainActivity
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:38:5-45:16
+	android:label
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:40:9-41
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:39:9-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:41:7-44:23
+action#android.intent.action.MAIN
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:42:9-60
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:42:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:43:9-68
+	android:name
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml:43:19-66
+uses-sdk
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/84295c59abf060942a6327e79c12a098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/84295c59abf060942a6327e79c12a098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/42d167b965d49cf017ccf6474b3f7a67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/42d167b965d49cf017ccf6474b3f7a67/AndroidManifest.xml:20:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/df16f8eec8dccdc6ffe05249fdb09e85/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/df16f8eec8dccdc6ffe05249fdb09e85/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/7ddb8717ffa676e50958148ce8d76d09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/7ddb8717ffa676e50958148ce8d76d09/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/reactivestreams-1.1.1.aar/a4f5afeafc8e2249a23dc34781bf6abf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/reactivestreams-1.1.1.aar/a4f5afeafc8e2249a23dc34781bf6abf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0-beta1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/558772b9debf44afb2f6106451fa4b54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0-beta1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-beta1.aar/558772b9debf44afb2f6106451fa4b54/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/8ea8ae01fbbd23738549bd89226c4fe1/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/8ea8ae01fbbd23738549bd89226c4fe1/AndroidManifest.xml:19:5-43
+MERGED from [com.mikepenz:materialdrawer:6.0.6] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/materialdrawer-6.0.6.aar/2ebfd91b51ff5074e33cd69fdadecbf2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:6.0.6] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/materialdrawer-6.0.6.aar/2ebfd91b51ff5074e33cd69fdadecbf2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1f1587b3351bcbc7a0539fa36374a3e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1f1587b3351bcbc7a0539fa36374a3e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/5d847dc8e034fa662faf6792563f28c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/5d847dc8e034fa662faf6792563f28c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9c8c4ed4dd69b48d456b6737a030e6e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9c8c4ed4dd69b48d456b6737a030e6e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e07ea0a1221ab057eab6dae17c37b021/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e07ea0a1221ab057eab6dae17c37b021/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/715b4eb73687e6a7cc38389152dedaaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/715b4eb73687e6a7cc38389152dedaaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/ccc410aabdb8fac9e5aeff4cf3bb8b2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/ccc410aabdb8fac9e5aeff4cf3bb8b2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/0cd53f8769594132fa5b4f3ce9206b99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/0cd53f8769594132fa5b4f3ce9206b99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/bb5f8704da8e6aed2a50b9378c548ce4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/bb5f8704da8e6aed2a50b9378c548ce4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd00f806021ee1f184fadcc4342f9d08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd00f806021ee1f184fadcc4342f9d08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fde8872a28690c7ef9ba9b67288b949/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fde8872a28690c7ef9ba9b67288b949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/f254b46f21960f22a9e606d72cdb0ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/f254b46f21960f22a9e606d72cdb0ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a10f3394bdeac669f9d67f1dfacf8e6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a10f3394bdeac669f9d67f1dfacf8e6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/b0f02f50b2e791b0ce18ac91657fd207/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/b0f02f50b2e791b0ce18ac91657fd207/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f45420a476a23d5cd1284e247640879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f45420a476a23d5cd1284e247640879/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3048e0c103d97e99a65d173791433ef2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3048e0c103d97e99a65d173791433ef2/AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialize:1.1.2] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/materialize-1.1.2.aar/320dae2d20cfdfa5d861303121c8a649/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.1.2] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/materialize-1.1.2.aar/320dae2d20cfdfa5d861303121c8a649/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/iconics-core-3.0.2.aar/00aebf192db957ba96eb5b51d7a280d7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/iconics-core-3.0.2.aar/00aebf192db957ba96eb5b51d7a280d7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/fastadapter-3.2.4.aar/f0916f530c07708402efe551beb8ec3e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/fastadapter-3.2.4.aar/f0916f530c07708402efe551beb8ec3e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-expandable-3.2.4.aar/b9e21a3fef14279357e51b3d84303036/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/fastadapter-extensions-expandable-3.2.4.aar/b9e21a3fef14279357e51b3d84303036/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jensklingenberg/Git/ChiefInspectorApp/Application/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/jensklingenberg/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6345ff3fad7cbc0b6ef07de9235d5db9/AndroidManifest.xml:24:13-83

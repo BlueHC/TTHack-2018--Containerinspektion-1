@@ -1,0 +1,51 @@
+ext {
+
+  configuration = [buildTools    : '27.0.3',
+                   applicationId : "de.jensklingenberg.chiefInspector",
+                   compileSdk    : 27,
+                   targetSdk     : 27,
+                   minSdk        : 21,
+                   versionCode   : 1,
+                   versionName   : '1.0.0']
+
+  libs = [
+           kotlinVersion           : '1.2.40',
+          retrofitVersion          : '2.3.0',
+          supportLibVersion        : '27.1.0',
+           archComponents           : '1.1.1',
+           rxandroid                : '2.0.1',
+           rxJava                   : '2.1.7',
+           rxjava2Adapter           : '1.0.0',
+           moshiConverterVersion    : '2.3.0',
+           picassoVersion           : '2.5.2',
+           roundedImageView         : '2.3.0',
+
+           moshilazyadapters        : '2.1',
+           moshiVersion             : '1.5.0'
+
+  ]
+
+  testingDependencies = {
+    dependencies {
+      testImplementation "org.json:json:20140107"
+      testImplementation group: 'org.mockito', name: 'mockito-core', version: '2.8.9'
+      testImplementation 'junit:junit:4.12'
+      androidTestImplementation 'com.android.support.test:runner:1.0.1'
+      androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+      testImplementation "com.nhaarman:mockito-kotlin:1.5.0"
+      testImplementation "org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version"
+      implementation "com.squareup.retrofit2:converter-scalars:${libs.retrofitVersion}"
+      implementation("com.mikepenz:materialdrawer:6.0.6@aar") {
+        transitive = true
+      }
+      implementation "com.android.support:design:${libs.supportLibVersion}"
+
+    }
+  }
+
+
+
+}
+
+
+
