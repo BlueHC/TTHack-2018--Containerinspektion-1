@@ -1,2 +1,7 @@
 # ChiefInspector App
-Created by Jens Klingenberg (mail@jensklingenberg.de)
+Created by Jens Klingenberg
+
+## Contact:
+www.jensklingenberg.de
+Mail: mail@jensklingenberg.de
+Twitter: @jklingenberg_
